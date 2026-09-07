@@ -13,5 +13,7 @@ MainWindow::MainWindow(QWidget *parent)
 
 MainWindow::~MainWindow()
 {
+    qDebug() << "Fenêtre principale détruite";
+
     delete ui;
 }

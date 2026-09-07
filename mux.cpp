@@ -8,5 +8,5 @@ Mux::Mux()
 
 Mux::~Mux()
 {
-    qDebug() << "Objet Mux détruit";
+    qDebug() << "Objet Mux brissé";
 }
